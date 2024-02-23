@@ -1,0 +1,14 @@
+shiny  
+pandas 
+pathlib 
+matplotlib
+shinyswatch
+shinywidgets  
+plotly
+asyncio
+ipyleaflet  
+ipywidgets  
+matplotlib
+numpy
+matplotlib
+warnings
